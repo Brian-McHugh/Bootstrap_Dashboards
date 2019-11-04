@@ -1,0 +1,116 @@
+/* .title{
+    background-color: #6500B2;
+    color: #fff;
+    font-family: Georgia;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 5px;
+} */
+
+.container {
+    background-color: #fff;
+    padding: 30pxx;
+    width: 100%;
+}
+
+/* body {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background: #e6e6e6;
+} */
+
+.box {
+    height: flex;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    background: #ffff;
+  }
+
+.table {
+    text-align: right;
+    width: 90%;
+    margin: 0 auto !important;
+}
+
+/* .container-fluid {
+    background: #ffff;
+} */
+
+h1 {
+    color: #160ac0;
+    font-family: Georgia;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    background: #ffff;
+}
+
+h5 {
+    color: #0a0a0a;
+    font-family: Georgia;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    background: #ffff;
+}
+
+/* img {
+    background: #fff;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+} */
+
+/* #navbar-brand {
+    color: #ffff;
+} */
+
+/* Giving our navbar some padding and a background color */
+nav.navbar {
+    background-color: #fff;
+}
+
+.navbar-brand {
+    padding: 10px;
+    background-color: #01a4b9;
+    color: #fff;
+    font-family: Georgia;
+    font-weight: bold; 
+}
+
+/* change hamburger button border color */
+.nav-link dropdown-toggle {
+    color: #737373;
+    border-color: #fff;
+}
+
+
+/* Giving our navbar some padding and a background color */
+.navbar-brand {
+    padding: 10px;
+    background-color: #01a4b9;
+    font-family: Georgia;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+@media (max-width: 766px) {
+    nav.navbar {
+        background-color: #01a4b9;
+    }
+    nav.navbar-brand {
+        padding: 0px;
+    }
+}
