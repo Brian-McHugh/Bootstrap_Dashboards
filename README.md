@@ -1,7 +1,7 @@
 # Web Visualization Dashboard (Latitude)
 
 ## Deployment
-[Dashboard](https://brian-mchugh.github.io/Web-Design-Challenge)
+[Dashboard](https://brian-mchugh.github.io/Web-Design-Challenge/WebVisualizations/index.html)
 
 ## Background
 
